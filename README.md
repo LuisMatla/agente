@@ -354,8 +354,7 @@ El programa muestra:
 
 ## 👨‍💻 Autor
 
-**Luis Fernando Contreras Matla**  
-**Matrícula: S21020225**
+**Luis Fernando Contreras Matla**
 
 ## 📚 Información Académica
 
@@ -372,9 +371,4 @@ Esta práctica fue desarrollada como parte de la Experiencia Educativa:
 ## 📄 Licencia
 
 Este proyecto es de código abierto y está disponible para uso educativo.
-
-## 🙏 Agradecimientos
-
-- RoboDK por la plataforma de simulación
-- Universidad Veracruzana por el apoyo académico
 
